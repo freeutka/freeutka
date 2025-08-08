@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src="/github-metrics.svg" alt="Metrics" width="400">
 
-<!--
-**freeutka/freeutka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [CloudQuack](https://discord.gg/wdDED7nVKv).
+- 🌱 I’m learning **Python**, **PHP**, **Javascript**, and many more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me!
+
+<a href="https://discord.com/channels/@me/1064119507108507648">
+  <img src="https://discord.c99.nl/widget/theme-1/1064119507108507648.png" alt="Discord" />
+</a>
+
+## 📊 GitHub Stats!
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freeutka&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=freeutka&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+<img src="https://raw.githubusercontent.com/freeutka/freeutka/output/snake.svg" alt="Snake animation" />
