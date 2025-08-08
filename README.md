@@ -1,5 +1,3 @@
-<img src="/github-metrics.svg" alt="Metrics" width="400">
-
 ## 👋 About Me
 
 - 🔭 I’m currently working on [CloudQuack](https://discord.gg/wdDED7nVKv).
