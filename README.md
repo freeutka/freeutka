@@ -1,7 +1,7 @@
 ## 👋 About Me
 
-- 🔭 I’m currently working on [CloudQuack](https://discord.gg/wdDED7nVKv).
-- 🌱 I’m learning **Python**, **PHP**, **Javascript**, and many more.
+- 🔭 I’m currently working on [OriHost](https://discord.gg/AFuEFW5uQe).
+- 🌱 I’m learning **React**, **Python**, **PHP**, **Javascript**, and many more.
 
 ## 📫 Connect with Me!
 
