@@ -6,7 +6,7 @@
 ## 📫 Connect with Me!
 
 <a href="https://discord.com/channels/@me/1064119507108507648">
-  <img src="https://discord.c99.nl/widget/theme-1/1064119507108507648.png" alt="Discord" />
+  <img src="https://discord.c99.nl/widget/theme-3/1064119507108507648.png" alt="Discord" />
 </a>
 
 ## 📊 GitHub Stats!
