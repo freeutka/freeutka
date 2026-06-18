@@ -1,20 +1,42 @@
-## 👋 About Me
+# 👋 Hi, I'm freeutka
 
-- 🔭 I’m currently working on [OriHost](https://discord.gg/AFuEFW5uQe).
-- 🌱 I’m learning **React**, **Python**, **PHP**, **Javascript**, and many more.
+```sh
+> curl freeutka.xyz (Yes, this actually works — try it yourself)
 
-## 📫 Connect with Me!
+[ identity ]
 
-<a href="https://discord.com/channels/@me/1064119507108507648">
-  <img src="https://discord.c99.nl/widget/theme-3/1064119507108507648.png" alt="Discord" />
-</a>
+  name    freeutka
+  role    backend developer
 
-## 📊 GitHub Stats!
+[ links ]
+
+  github   github.com/freeutka
+  discord  discord.gg/KmcVss8Kdg
+  email    freeutka@proton.me
+```
+
+## 🚀 About Me
+
+* 👨‍💻 Backend developer.
+* 🛠️ Building random things and experimenting with new technologies.
+* 🌐 Creator of various open-source projects.
+* ⚡ I enjoy low-level stuff, infrastructure, automation and web development.
+
+## 🔗 Links
+
+* Website: https://freeutka.xyz
+* GitHub: https://github.com/freeutka
+* Discord: https://discord.gg/KmcVss8Kdg
+* Email: [freeutka@proton.me](mailto:freeutka@proton.me)
+
+## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freeutka&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=freeutka&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=freeutka&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freeutka&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 <img src="https://raw.githubusercontent.com/freeutka/freeutka/output/snake.svg" alt="Snake animation" />
