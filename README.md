@@ -31,12 +31,11 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=freeutka&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=freeutka&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=freeutka&layout=compact&theme=radical" />
+</div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freeutka&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/freeutka/freeutka/output/snake.svg" />
 </p>
-
-<img src="https://raw.githubusercontent.com/freeutka/freeutka/output/snake.svg" alt="Snake animation" />
