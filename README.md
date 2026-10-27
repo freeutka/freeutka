@@ -1,7 +1,7 @@
 # 👋 Hi, I'm freeutka
 
 ```sh
-> curl freeutka.xyz (Yes, this actually works — try it yourself)
+> curl freeutka.xyz
 
 [ identity ]
 
@@ -11,7 +11,6 @@
 [ links ]
 
   github   github.com/freeutka
-  discord  discord.gg/KmcVss8Kdg
   email    freeutka@proton.me
 ```
 
@@ -26,7 +25,6 @@
 
 * Website: https://freeutka.xyz
 * GitHub: https://github.com/freeutka
-* Discord: https://discord.gg/KmcVss8Kdg
 * Email: [freeutka@proton.me](mailto:freeutka@proton.me)
 
 ## 📊 GitHub Stats
